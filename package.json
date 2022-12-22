@@ -1,6 +1,7 @@
 {
   "name": "csv-to-animj",
   "version": "0.1.0",
+  "type": "module",
   "description": "A node.js utility to convert csv to neos animj.",
   "main": "index.js",
   "scripts": {
@@ -21,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/stiefeljackal/csv-to-animj/issues"
   },
-  "homepage": "https://github.com/stiefeljackal/csv-to-animj#readme"
+  "homepage": "https://github.com/stiefeljackal/csv-to-animj#readme",
+  "dependencies": {
+    "csv-parser": "3.0.0",
+    "fs-extra": "11.1.0",
+    "yargs": "17.6.2"
+  }
 }

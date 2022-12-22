@@ -1,0 +1,25 @@
+{
+  "name": "csv-to-animj",
+  "version": "0.1.0",
+  "description": "A node.js utility to convert csv to neos animj.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stiefeljackal/csv-to-animj.git"
+  },
+  "keywords": [
+    "csv",
+    "animj",
+    "neos",
+    "neosvr"
+  ],
+  "author": "Stiefel Jackal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stiefeljackal/csv-to-animj/issues"
+  },
+  "homepage": "https://github.com/stiefeljackal/csv-to-animj#readme"
+}
